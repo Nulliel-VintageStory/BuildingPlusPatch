@@ -1,0 +1,12 @@
+{
+	"type": "code",
+	"modid": "buildingpluspatch",
+	"name": "BuildingPlusPatch",
+	"description": "Fixes crashing when placing blocks from BuildingPlus",
+	"authors": ["nulliel"],
+	"version": "1.0.1",
+	"dependencies": {
+		"buildingplus": "1.1.2",
+		"game": "1.18.5"
+	}
+}
